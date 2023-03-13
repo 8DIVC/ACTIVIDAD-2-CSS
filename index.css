@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(245, 244, 244);
+}
+
+table, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 2px;
+}
+
+th{
+    text-align: lefft;
+    padding: 20px 40px;
+    background-color: rgb(242, 241, 243);
+    border: 1px solid rgb(12, 14, 9);
+}
+
+#bnue{
+    background-color: rgba(36, 180, 60, 0.993);
+    border: 0px;
+    color: aliceblue;
+    padding: 8px 10px;
+    text-decoration: none;
+}
+
+#bedit{
+    background-color: rgba(74, 89, 219, 0.993);
+    border: 0px;
+    color: aliceblue;
+}
+
+#belim{
+    background-color: rgba(207, 71, 105, 0.993);
+    border: 0px;
+    color: aliceblue;
+}

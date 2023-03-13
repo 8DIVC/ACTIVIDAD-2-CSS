@@ -1,0 +1,30 @@
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+fieldset{
+    width: 400px;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    text-align: center;
+    display: inline;
+    position:relative ;
+    top: 100px;
+    margin: 50px 50px;
+    width: 50px;
+    background-color: rgba(240, 247, 177, 0.993);
+    padding: 10px;
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+}
+
+
